@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/fedricobevione/saga_tutorial/choeraography/common"
+	"github.com/fedricobevione/saga_tutorial/choerography/common"
 	"github.com/rabbitmq/amqp091-go"
 )
 
