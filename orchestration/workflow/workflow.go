@@ -4,7 +4,7 @@ package workflow
 import (
 	"time"
 
-	"github.com/fedricobevione/saga_tutorial/orchestration/activities"
+	"github.com/federicobevione/saga_tutorial/orchestration/activities"
 	"go.temporal.io/sdk/temporal"
 	"go.temporal.io/sdk/workflow"
 	"go.uber.org/multierr"

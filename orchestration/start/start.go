@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	"github.com/fedricobevione/saga_tutorial/orchestration/workflow"
+	"github.com/federicobevione/saga_tutorial/orchestration/workflow"
 	"go.temporal.io/sdk/client"
 )
 

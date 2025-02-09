@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/fedricobevione/saga_tutorial/orchestration/activities"
-	"github.com/fedricobevione/saga_tutorial/orchestration/workflow"
+	"github.com/federicobevione/saga_tutorial/orchestration/activities"
+	"github.com/federicobevione/saga_tutorial/orchestration/workflow"
 	"go.temporal.io/sdk/client"
 	"go.temporal.io/sdk/worker"
 )
